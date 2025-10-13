@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Gpassed/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Gpassed/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Gpassed/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure</b>|**IAM Project**
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Gpassed/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Gpassed/azure-network-protocols)
   - [Managing users and role for eligble users](https://github.com/Gpassed/Managing-Entra-users-roles-/tree/main)
