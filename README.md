@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Gpassed/azure-network-protocols)
   - [Managing users and role for eligble users](https://github.com/Gpassed/Managing-Entra-users-roles-/tree/main)
   - [MFA_FOR_Users](https://github.com/Gpassed/MFA_FOR-USERS/blob/main/)
+  - [SSPR for users](https://github.com/Gpassed/Configure-and-deploy-self-service-password-reset)
 
 <h2>🤳Connect with me:</h2>
 
