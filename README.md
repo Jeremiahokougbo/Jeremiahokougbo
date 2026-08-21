@@ -1,6 +1,6 @@
-### # Hi there <img src="./Hi.gif" width="29px"> I'm Parveen Singh
+### # Hi there <img src="./Hi.gif" width="29px"> I'm Jeremiah Okougbo
 
->Identity & Cloud Administrator doing Azure things. 
+> Identity & Cloud Administrator doing Azure things. 
 
 Eager to learn more for better experience and future with hands-on experience managing user lifecycle, authentication, and
 access governance across Microsoft 365, Entra ID, and Windows Server environments. Skilled in MFA
