@@ -1,4 +1,4 @@
-# Hi there <img src="./Hi.gif" width="29px"> I'm Jeremiah Okougbo
+# Hi there <Hi.gif> I'm Jeremiah Okougbo
 
 <h2>👨‍💻 Information Technology Projects/IAM Projects:</h2>
 
