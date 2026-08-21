@@ -1,4 +1,7 @@
-# Hi there <img src="./Hi.gif" width="29px"> I'm Jeremiah Okougbo
+
+Hi there 
+I'm <img src="./Hi.gif" width="29"> Jeremiah Okougbo
+
 
 Identity & Cloud Administrator doing Azure things. 
 
