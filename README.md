@@ -1,4 +1,4 @@
-## # Hi there I'm <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="29"> Jeremiah Okougbo
+## # Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="29"> I'm Jeremiah Okougbo
 
 
 > Identity & Cloud Administrator doing Azure things. 
