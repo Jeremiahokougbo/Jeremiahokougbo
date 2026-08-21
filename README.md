@@ -21,4 +21,4 @@ troubleshooting, password resets, SSPR, RBAC, PIM workflows, and hybrid identity
 
 <h2>🤳Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/jeremiah-okougbo/" 
+<a href="https://www.linkedin.com/in/jeremiah-okougbo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@singhparveen-blue?style=flat&logo=linkedin"></a>
