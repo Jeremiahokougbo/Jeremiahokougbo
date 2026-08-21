@@ -1,5 +1,7 @@
 # Hi there <img src="./Hi.gif" width="29px"> I'm Jeremiah Okougbo
 
+Identity & Cloud Administrator doing azure things. Eager to learn more for better experience and future.
+
 <h2>👨‍💻 Information Technology Projects/IAM Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
