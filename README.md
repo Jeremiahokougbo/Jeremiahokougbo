@@ -3,10 +3,7 @@
 
 > Identity & Cloud Administrator doing Azure things. 
 
-Eager to learn more for better exposure. Hands-on experience managing user lifecycle, authentication, and
-access governance across Microsoft 365, Entra ID, and Windows Server environments. Skilled in MFA
-troubleshooting, password resets, SSPR, RBAC, PIM workflows, and hybrid identity with AD Connect. Actively expanding cloud security and IAM expertise to transition into 
-roles focused on identity governance, access administration, and cloud security operations.
+Eager to keep learning and gaining more exposure in identity and access management. I have hands‑on experience managing user lifecycle operations, authentication, and access governance across Microsoft 365, Entra ID, and Windows Server. I’m comfortable with MFA troubleshooting, password resets, SSPR, RBAC, PIM workflows, and hybrid identity using AD Connect. I’m actively building deeper cloud security and IAM skills as I work toward roles focused on identity governance, access administration, and cloud security operations.
 
 <h2>👨‍💻 Information Technology Projects/IAM Projects:</h2>
 
